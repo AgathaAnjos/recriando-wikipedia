@@ -1,0 +1,190 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: georgia;
+  background-color: rgb(0, 0, 0);
+  color: rgb(160, 23, 23);
+}
+a {
+  color: rgb(119, 0, 255);
+  text-decoration: none;
+}
+
+/* nav */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+h2 {
+  text-align: left;
+  margin: 40px;
+  margin-bottom: 10px;
+}
+
+ul {
+  text-align: left;
+  margin: 60px;
+  margin-top: 0;
+  display: flex;
+  gap: 50px;
+}
+
+/* main */
+#bts {
+  text-align: center;
+}
+
+.bts img {
+  width: 700px;
+  height: auto;
+  border-radius: 8px;
+  margin-left: 400px;
+}
+
+.historia {
+  text-align: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  background-color: #000000;
+  border-left: 5px solid #660505;
+  border-radius: 8px;
+  color: rgb(160, 23, 23);
+  box-shadow: 7px 7px 7px rgba(160, 23, 23, 0.267);
+}
+
+#membros {
+  text-align: center;
+}
+
+/* members */
+.jin img,
+.suga img,
+.jhope img,
+.rm img,
+.jiminie img,
+.tae img,
+.kook img {
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.jin,
+.suga,
+.jhope,
+.rm,
+.jiminie,
+.tae,
+.kook {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  line-height: 1.7;
+}
+
+/* albuns */
+#albuns {
+  text-align: center;
+}
+
+.albuns {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+/* Songs */
+
+.song-1 img,
+.song-2 img,
+.song-3 img,
+.song-4 img,
+.song-5 img,
+.song-6 img,
+.song-7 img,
+.song-8 img,
+.song-9 img,
+.song-10 img,
+.song-11 img,
+.song-12 img,
+.song-13 img,
+.song-14 img,
+.song-15 img,
+.song-16 img,
+.song-17 img,
+.song-18 img,
+.song-19 img,
+.song-20 img,
+.song-21 img,
+.song-22 img,
+.song-23 img,
+.song-24 img,
+.song-25 img {
+  width: 250px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.song-1,
+.song-2,
+.song-3,
+.song-4,
+.song-5,
+.song-6,
+.song-7,
+.song-8,
+.song-9,
+.song-10,
+.song-11,
+.song-12,
+.song-13,
+.song-14,
+.song-15,
+.song-16,
+.song-17,
+.song-18,
+.song-19,
+.song-20,
+.song-21,
+.song-22,
+.song-23,
+.song-24,
+.song-25 {
+  margin: 10px;
+  line-height: 1.7;
+}
+
+.song-1 figure,
+.song-2 figure,
+.song-3 figure,
+.song-4 figure,
+.song-5 figure,
+.song-6 figure,
+.song-7 figure,
+.song-8 figure,
+.song-9 figure,
+.song-10 figure,
+.song-11 figure,
+.song-12 figure,
+.song-13 figure,
+.song-14 figure,
+.song-15 figure,
+.song-16 figure,
+.song-17 figure,
+.song-18 figure,
+.song-19 figure,
+.song-20 figure,
+.song-21 figure,
+.song-22 figure,
+.song-23 figure,
+.song-24 figure,
+.song-25 figure {
+  text-align: center;
+}
